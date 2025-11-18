@@ -27,7 +27,15 @@
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.363.0",
-    "tailwind-merge": "^2.2.0"
+    "tailwind-merge": "^2.2.0",
+    "chart.js": "^4.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.2",
+    "xlsx": "^0.18.5",
+    "qrcode": "^1.5.3",
+    "dayjs": "^1.11.13",
+    "file-saver": "^2.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
